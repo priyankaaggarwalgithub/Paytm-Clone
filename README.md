@@ -1,4 +1,4 @@
-# Only for educational purpose/
+## Only for educational purpose
 # Paytm-Clone(Front-end)
 
 ### Live Link:https://pa-paytm-clone.netlify.app/
